@@ -1,0 +1,22 @@
+{
+  "name": "rolldown-vue-demo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "preview": "serve",
+    "build": "rolldown --config ./rolldown.config.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "plugin-vue-rolldown-hmr-demo": "^5.0.5",
+    "rolldown": "^0.15.0",
+    "serve": "^14.2.4",
+    "unplugin-vue": "^5.2.1"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  }
+}
